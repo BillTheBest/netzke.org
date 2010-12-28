@@ -18,6 +18,10 @@ compile '/images/*/' do
   # don’t filter or layout
 end
 
+compile '/favicon/' do
+
+end
+
 compile '*' do
   case item[:extension]
     when 'md', 'markdown'
@@ -41,6 +45,10 @@ end
 
 route '/stylesheet/' do
   '/style.css'
+end
+
+route '/favicon/' do
+  '/favicon.ico'
 end
 
 route '/images/*/' do
