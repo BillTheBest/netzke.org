@@ -67,6 +67,10 @@
           <a href="/code/">Code</a>
         </li>
 
+        <li <%= %Q(class="current-tab") if @item[:title] == "Testimonials" %>>
+          <a href="/testimonials/">Testimonials</a>
+        </li>
+
         <li <%= %Q(class="current-tab") if @item[:title] == "Jobs" %>>
           <a href="/jobs/">Jobs</a>
         </li>
