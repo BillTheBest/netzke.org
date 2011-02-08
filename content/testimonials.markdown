@@ -10,4 +10,4 @@ Soon we faced a constant mess of view helpers and partial trying to wrap Ext's c
 When we learned about Netzke, it was love on first sight as it provides exactly what we need. After some initial learning curve and an amazingly prolific month together with the lead developer, we are now very productive with Netzke and already have written about **150 custom components** with it - this would have never been possible with our partials-approach. After looking at the competition I am certain that Netzke is the only serious option for component-based frameworks with rails.
 With components we can now abstract the huge complexities we are facing into easy-to-reason-about components, and we can make use of all common code-reuse patterns like inheritance and composition *using Ruby*.
 
-_Paul Schyska, [pme Familienservice](http://familienservice.de)_
+_[Paul Schyska](http://pschyska.blogspot.com/), [pme Familienservice](http://familienservice.de)_
