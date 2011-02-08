@@ -53,7 +53,9 @@
           <a href="/">Overview</a>
         </li>
 
-        <li><a href="http://demo.netzke.org">Demo</a></li>
+        <li <%= %Q(class="current-tab") if @item[:title] == "Demo" %>>
+          <a href="/demo/">Demo</a>
+        </li>
 
         <li <%= %Q(class="current-tab") if @item[:title] == "Documentation" %>>
           <a href="/documentation/">Documentation</a>
