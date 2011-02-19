@@ -10,3 +10,7 @@ For questions and discussions, feel free to join the [Netzke Google Groups](http
 
 ### IRC Channel
 There's an IRC channel on freenode.net named [#netzke](irc://chat.freenode.net/#netzke).
+
+### Blog posts about Netzke
+* Netzke login form, BDD-style (in Russian): [Автотесты Netzke в браузере](http://a3r.me/blog/2011/netzke-cucumber-selenium.html)
+* [Introducing Ext.Direct to Netzke](http://pschyska.blogspot.com/2011/02/introducing-extdirect-to-netzke.html) by [Paul Schyska](http://twitter.com/pschyska)
